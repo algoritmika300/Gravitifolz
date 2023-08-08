@@ -1,0 +1,76 @@
+header{
+    background-image: url("https://lenta.servicecdn.ru/globalassets/1/-/62/83/21/432024_3.png?preset=fulllossywhite");
+    height: 260px;
+   
+    
+}
+
+nav{
+    background-color: azure;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-item{
+    color:lightslategray;
+}
+.menu-item:hover{
+    color:black;
+}
+
+h1{
+    text-align: center;
+}
+
+.text-blye{
+    background-color: lightskyblue;
+}
+
+.text-blye{
+    
+}
+
+.rin{
+   
+    background-color: lemonchiffon;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.ril{
+    background-color: ;
+}
+
+.rip{
+    background-color: lightgoldenrodyellow;
+}
+
+.rul{
+    background-color: lightgray;
+}
+
+.rim{
+    background-color: lightsalmon;
+}
+
+.pul{
+    background-color: lightgreen;
+}
+.rik{
+    background-color: lightcoral;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.rio{
+    background-color: rgba(7, 156, 255, 0.774);
+}
+
+body{
+    background-color:#E393F8;
+}
